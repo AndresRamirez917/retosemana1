@@ -1,0 +1,20 @@
+{
+  "name": "crud-empleados",
+  "version": "1.0.0",
+  "description": "Ejercicio Reto 1 Ciclo 4",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  
+  "author": "Andres Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "logger": "0.0.1",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.14"
+  }
+}
